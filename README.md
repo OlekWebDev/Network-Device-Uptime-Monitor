@@ -6,6 +6,8 @@ A Python Tkinter Gui based network monitoring solution designed to track device 
 
 This application was created to solve a specific business problem: tracking when VoIP phones go offline due to user reboots, helping IT teams correlate user-reported issues with actual device downtime. The solution provides real-time monitoring with email alerts, making it an invaluable tool for network administrators and IT support teams.
 
+<img width="752" height="851" alt="Screenshot_monitor" src="https://github.com/user-attachments/assets/afc359c8-5882-47f9-a54d-95e1b5c08cbb" />
+
 ## ✨ Key Features
 
 ### Core Monitoring Capabilities
